@@ -16,4 +16,6 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 ***Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.***
 ![image](https://user-images.githubusercontent.com/93171738/159066030-97292117-8f9f-49bf-aad3-64308a49cf6c.png)
 
-
+ The coefficients that most provide a non-random amount of variance to the mpg value are the vehicle_length and ground_clearance. From this we can draw the conclusion that both vehicle_length and ground_clearnance have a significant impact on mpg. 
+ 
+ 
