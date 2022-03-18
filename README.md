@@ -14,4 +14,5 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
 # Deliverable 1: Linear Regression to Predict MPG
 ***Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.***
+![image](https://user-images.githubusercontent.com/93171738/159065861-ee3ba062-9ed8-40e0-8f1a-6853f69eed1b.png)
 
