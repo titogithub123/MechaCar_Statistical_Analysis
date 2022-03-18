@@ -10,3 +10,7 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 * Deliverable 2: Summary Statistics on Suspension Coils
 * Deliverable 3: T-Test on Suspension Coils
 * Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
+
+# Deliverable 1: Linear Regression to Predict MPG
+Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
