@@ -21,3 +21,6 @@ The coefficients that most provide a non-random amount of variance to the mpg va
 Now, because the p-value of our linear regression analyisis is 5.35e-11, which is much smaller than our assumed significance level of 0.05% we can confidently state that there is sufficient evidence to reject our "null" hypothesis, which means that the slope of our linear model is NOT zero. 
 
 According to the Multiple R-squared value of 0.7149 we can conclude that we have an approx. 71% effective rate of our linear model predicting MPG of the MechaCar prototypes. 
+
+# Deliverable 2: Summary Statistics on Suspension Coils
+***Perform summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.***
