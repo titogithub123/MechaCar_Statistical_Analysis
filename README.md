@@ -18,4 +18,6 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 
  The coefficients that most provide a non-random amount of variance to the mpg value are the vehicle_length and ground_clearance. From this we can draw the conclusion that both vehicle_length and ground_clearnance have a significant impact on mpg. 
  
- 
+Now, because the p-value of our linear regression analyisis is 5.35e-11, which is much smaller than our assumed significance level of 0.05% we can confidently that there is sufficient evidence to reject our "null" hypothesis, which means that the slope of our linear model is NOT zero. 
+
+
