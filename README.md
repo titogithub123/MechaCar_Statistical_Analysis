@@ -46,3 +46,10 @@ From the image above we can see that as a whole, all manufacturing lots are NOT 
 
 Here we can see that Lot 1 is NOT significantly different fromt the popluation mean (with a p-value of 1)
 
+![image](https://user-images.githubusercontent.com/93171738/159801597-2c91aa1b-9cc2-4daa-a506-bbbb8d2670d2.png)
+
+Above, we see that Lot 2 is NOT significantly different from the population mean (with a p-value of 0.61)
+
+![image](https://user-images.githubusercontent.com/93171738/159802314-48a1e36d-376b-40fa-ab3b-34e5c9092058.png)
+
+Here, we can see Lot 3 IS significantly different from the population mean (with a p-value of 0.61)
