@@ -56,3 +56,9 @@ Here, we can see Lot 3 **IS** significantly different from the population mean (
 
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
+To provide competitive distinction between the MechaCar and the competition it recommended that a statistical analysis of some key metrics be performed. In particular, a baseline set of metrics including cost, MPG(city/highway), acceleration (0-60 time), and safety ratings will be compared. If required additional, vehicle class metrics such as handling, braking, off-road/AWD, towing, etc can also be included (would request the marketing and design team input). Data collection for most vehicles should be available from the manufacturer, as well as public sources such as "Car and Driver". Finally, if required, private firms can be engaged to perform independent testing (cost is likely a factor here). Once all the metrics are collected for 5-10 competitive vehicles it is suggested an ANOVA analysis be performed to determine: for which metics is the MechaCar substantially different, i.e., statistically significant. To summarize:
+
+Metrics to test: cost, MPG(city/highway), acceleration (0-60 time), and safety ratings
+H0: The MechaCar means performance in these metics is not different from its competitors means
+ANOVA will be used. ANOVA is used to test the means of multiple metrics across multiple groups
+Data: collected from manufacturer published specifications, publicly published test results (e.g., Car and Driver), or custom independent testing (if required).
