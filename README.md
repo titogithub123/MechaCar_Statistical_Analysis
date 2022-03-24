@@ -50,7 +50,7 @@ Below, we see that Lot 2 is **NOT** significantly different from the population 
 
 ![image](https://user-images.githubusercontent.com/93171738/159817236-4fa08e9e-14a5-4ad4-98f9-326ef9712aed.png)
 
-Here, we can see Lot 3 ***IS*** significantly different from the population mean (with a p-value of 0.61)
+Here, we can see Lot 3 **IS** significantly different from the population mean (with a p-value of 0.61)
 
 ![image](https://user-images.githubusercontent.com/93171738/159817382-4dd65db4-1792-4b7e-9978-9983401b27aa.png)
 
