@@ -42,9 +42,10 @@ From the image below we can see that as a whole, all manufacturing lots are NOT 
 
 ![image](https://user-images.githubusercontent.com/93171738/159795311-88c6c992-2595-4d70-a0be-deb90aa0dade.png)
 
-![image](https://user-images.githubusercontent.com/93171738/159799353-b8c2a7a3-4dbc-48ff-ae78-922f3b7d8865.png)
-
 Here we can see that Lot 1 is NOT significantly different fromt the popluation mean (with a p-value of 1)
+
+![image](https://user-images.githubusercontent.com/93171738/159817093-fc17e04e-51fd-4302-8d60-711683c94560.png)
+
 
 ![image](https://user-images.githubusercontent.com/93171738/159801597-2c91aa1b-9cc2-4daa-a506-bbbb8d2670d2.png)
 
