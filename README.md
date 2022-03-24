@@ -46,10 +46,11 @@ Here we can see that Lot 1 is NOT significantly different fromt the popluation m
 
 ![image](https://user-images.githubusercontent.com/93171738/159817093-fc17e04e-51fd-4302-8d60-711683c94560.png)
 
+Below, we see that Lot 2 is NOT significantly different from the population mean (with a p-value of 0.61)
 
-![image](https://user-images.githubusercontent.com/93171738/159801597-2c91aa1b-9cc2-4daa-a506-bbbb8d2670d2.png)
+![image](https://user-images.githubusercontent.com/93171738/159817236-4fa08e9e-14a5-4ad4-98f9-326ef9712aed.png)
 
-Above, we see that Lot 2 is NOT significantly different from the population mean (with a p-value of 0.61)
+
 
 ![image](https://user-images.githubusercontent.com/93171738/159802314-48a1e36d-376b-40fa-ab3b-34e5c9092058.png)
 
