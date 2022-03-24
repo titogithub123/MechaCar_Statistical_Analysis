@@ -29,7 +29,7 @@ According to the Multiple R-squared value of 0.7149 we can conclude that we have
 
 As we can see from the image above, it looks like, in general we have a variance of under 100 pounds per square inch for all 3 manufacturing lots. Therefore, on the surface it looks like we have met the minimum design specifications for the MechaCar.
 
-![image](https://user-images.githubusercontent.com/93171738/159817692-0f9ac887-9db3-4846-bf47-ff3395233522.png)
+![image](https://user-images.githubusercontent.com/93171738/159817869-2ff95b82-78ca-4b91-82c8-c1f66314eafb.png)
 
 Now, as we can see from the image above it appears that there is a problem with lot 3. While we can see lot 1 and lot 2 are well below our specifications of a variance of 100 PSI or below, lot 3 shows a varience of 170.29 PSI. 
 
