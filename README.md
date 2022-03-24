@@ -54,5 +54,5 @@ Here, we can see Lot 3 **IS** significantly different from the population mean (
 
 ![image](https://user-images.githubusercontent.com/93171738/159817382-4dd65db4-1792-4b7e-9978-9983401b27aa.png)
 
+# Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
-dd
