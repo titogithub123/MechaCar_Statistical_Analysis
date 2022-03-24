@@ -37,10 +37,10 @@ From this we can conclude that the data from lot 3 is not meeting our design spe
 
 # Deliverable 3: T-Test on Suspension Coils
 ***Run t-tests to determine if the manufacturing lots are statistically different from the mean popluation.***
+From the image below we can see that as a whole, all manufacturing lots are NOT significantly different from the popluation mean (with a p-value of 0.060)
+
 
 ![image](https://user-images.githubusercontent.com/93171738/159795311-88c6c992-2595-4d70-a0be-deb90aa0dade.png)
-
-From the image above we can see that as a whole, all manufacturing lots are NOT significantly different from the popluation mean (with a p-value of 0.060)
 
 ![image](https://user-images.githubusercontent.com/93171738/159799353-b8c2a7a3-4dbc-48ff-ae78-922f3b7d8865.png)
 
